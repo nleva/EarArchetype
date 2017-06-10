@@ -1,0 +1,2 @@
+# EarArchetype
+Ear plugin archetype
